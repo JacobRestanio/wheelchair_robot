@@ -1,0 +1,8 @@
+prefix=/home/jacob/wheelchair_robot/install
+
+Name: pose_conversion
+Description: Description of pose_conversion
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/jacob/wheelchair_robot/install/lib 
+Requires: 

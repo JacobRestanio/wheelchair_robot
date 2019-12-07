@@ -1,0 +1,8 @@
+prefix=/home/jacob/wheelchair_robot/devel
+
+Name: ncd_parser
+Description: Description of ncd_parser
+Version: 0.3.2
+Cflags: 
+Libs: -L/home/jacob/wheelchair_robot/devel/lib 
+Requires: 

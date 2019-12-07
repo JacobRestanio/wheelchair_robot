@@ -1,0 +1,8 @@
+prefix=/home/jacob/wheelchair_robot/devel
+
+Name: laser_scan_sparsifier
+Description: Description of laser_scan_sparsifier
+Version: 0.3.2
+Cflags: -I/home/jacob/wheelchair_robot/src/scan_tools/laser_scan_sparsifier/include
+Libs: -L/home/jacob/wheelchair_robot/devel/lib -llaser_scan_sparsifier
+Requires: roscpp nodelet sensor_msgs
