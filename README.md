@@ -24,7 +24,7 @@ cd to ../wheelchair_robot/src
 then you can cd to ../wheelchair_robot and
   $ catkin_make
 
-you'll most likely run into make errors, good lucko
+you'll most likely run into make errors, good luck.
 
 # launching the project
 there is a launch file located in the source of the project
