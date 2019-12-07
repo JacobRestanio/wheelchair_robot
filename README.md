@@ -14,9 +14,9 @@ scan_tools will require additional dependencies:
       $ cd csm && ./install_quickstart.sh
     copy the contents of csm/deployed to to /usr/:
       bin -> /usr/bin, include -> /usr/include, lib -> /usr/lib
-      DO NOT overwrite any files
+      DO NOT overwrite any files.
    
-I cannot remember all the dependencies I needed to install, I will fill them out as find out.
+I cannot remember all the dependencies I needed to install, I will fill them out as we come across them.
 
 # making the project catkin
 cd to ../wheelchair_robot/src
