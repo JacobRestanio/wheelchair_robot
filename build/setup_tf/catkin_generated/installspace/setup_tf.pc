@@ -1,8 +1,0 @@
-prefix=/home/jacob/wheelchair_robot/install
-
-Name: setup_tf
-Description: Description of setup_tf
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/jacob/wheelchair_robot/install/lib 
-Requires: 

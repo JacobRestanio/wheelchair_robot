@@ -1,8 +1,0 @@
-prefix=/home/jacob/wheelchair_robot/install
-
-Name: laser_ortho_projector
-Description: Description of laser_ortho_projector
-Version: 0.3.2
-Cflags: -I/home/jacob/wheelchair_robot/install/include
-Libs: -L/home/jacob/wheelchair_robot/install/lib -llaser_ortho_projector
-Requires: roscpp nodelet sensor_msgs tf pcl_ros pcl_conversions geometry_msgs message_filters

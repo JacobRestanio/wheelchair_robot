@@ -1,8 +1,0 @@
-prefix=/home/jacob/wheelchair_robot/install
-
-Name: polar_scan_matcher
-Description: Description of polar_scan_matcher
-Version: 0.3.2
-Cflags: -I/home/jacob/wheelchair_robot/install/include
-Libs: -L/home/jacob/wheelchair_robot/install/lib -lpolar_scan_matcher
-Requires: 
